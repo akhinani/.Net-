@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\bin\Debug\Sort array.exe.config
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\bin\Debug\Sort array.exe
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\bin\Debug\Sort array.pdb
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\obj\Debug\Sort array.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\obj\Debug\Sort array.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\obj\Debug\Sort array.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\obj\Debug\Sort array.exe
+D:\Virtual studio\Day 4\Sort array bubble\Sort array\obj\Debug\Sort array.pdb

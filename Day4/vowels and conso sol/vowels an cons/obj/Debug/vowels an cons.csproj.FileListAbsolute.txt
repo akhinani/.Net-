@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\bin\Debug\vowels an cons.exe.config
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\bin\Debug\vowels an cons.exe
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\bin\Debug\vowels an cons.pdb
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\obj\Debug\vowels an cons.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\obj\Debug\vowels an cons.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\obj\Debug\vowels an cons.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\obj\Debug\vowels an cons.exe
+D:\Virtual studio\Day 4\vowels and conso sol\vowels an cons\obj\Debug\vowels an cons.pdb
