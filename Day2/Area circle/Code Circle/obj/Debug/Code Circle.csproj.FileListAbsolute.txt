@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 2\Area circle\Code Circle\bin\Debug\Code Circle.exe.config
+D:\Virtual studio\Day 2\Area circle\Code Circle\bin\Debug\Code Circle.exe
+D:\Virtual studio\Day 2\Area circle\Code Circle\bin\Debug\Code Circle.pdb
+D:\Virtual studio\Day 2\Area circle\Code Circle\obj\Debug\Code Circle.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 2\Area circle\Code Circle\obj\Debug\Code Circle.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 2\Area circle\Code Circle\obj\Debug\Code Circle.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 2\Area circle\Code Circle\obj\Debug\Code Circle.exe
+D:\Virtual studio\Day 2\Area circle\Code Circle\obj\Debug\Code Circle.pdb
