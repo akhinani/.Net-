@@ -1,0 +1,6 @@
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\bin\Debug\Bank Appli.dll
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\bin\Debug\Bank Appli.pdb
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\obj\Debug\Bank Appli.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\obj\Debug\Bank Appli.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\obj\Debug\Bank Appli.dll
+D:\Virtual studio\Day 5\Locker properties\Bank Appli\obj\Debug\Bank Appli.pdb

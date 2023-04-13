@@ -1,0 +1,3 @@
+D:\Virtual studio\Day 5\Notes\Find notes\obj\Debug\Find notes.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 5\Notes\Find notes\obj\Debug\Find notes.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 5\Notes\Find notes\obj\Debug\Find notes.csproj.CoreCompileInputs.cache
