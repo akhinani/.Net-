@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\obj\Debug\Absolute diff.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\obj\Debug\Absolute diff.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\obj\Debug\Absolute diff.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\bin\Debug\Absolute diff.exe.config
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\bin\Debug\Absolute diff.exe
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\bin\Debug\Absolute diff.pdb
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\obj\Debug\Absolute diff.exe
+D:\Virtual studio\Day 3\Absolute sol\Absolute diff\obj\Debug\Absolute diff.pdb
