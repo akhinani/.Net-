@@ -1,0 +1,8 @@
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\bin\Debug\Car pooling requirement 5.exe.config
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\bin\Debug\Car pooling requirement 5.exe
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\bin\Debug\Car pooling requirement 5.pdb
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\obj\Debug\Car pooling requirement 5.csproj.AssemblyReference.cache
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\obj\Debug\Car pooling requirement 5.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\obj\Debug\Car pooling requirement 5.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\obj\Debug\Car pooling requirement 5.exe
+D:\Virtual studio\Day12\Car pooling requirement 5\Car pooling requirement 5\obj\Debug\Car pooling requirement 5.pdb
