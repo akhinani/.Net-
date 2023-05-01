@@ -1,0 +1,8 @@
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\obj\Debug\Songrequirement3.csproj.AssemblyReference.cache
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\obj\Debug\Songrequirement3.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\obj\Debug\Songrequirement3.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\bin\Debug\Songrequirement3.exe.config
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\bin\Debug\Songrequirement3.exe
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\bin\Debug\Songrequirement3.pdb
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\obj\Debug\Songrequirement3.exe
+D:\Virtual studio\Day17\Songrequirement3\Songrequirement3\obj\Debug\Songrequirement3.pdb
