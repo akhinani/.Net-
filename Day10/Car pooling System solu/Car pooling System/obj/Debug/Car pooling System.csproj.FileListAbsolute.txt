@@ -1,0 +1,8 @@
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\bin\Debug\Car pooling System.exe.config
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\bin\Debug\Car pooling System.exe
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\bin\Debug\Car pooling System.pdb
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\obj\Debug\Car pooling System.csproj.AssemblyReference.cache
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\obj\Debug\Car pooling System.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\obj\Debug\Car pooling System.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\obj\Debug\Car pooling System.exe
+D:\Virtual studio\Day10\Car pooling System solu\Car pooling System\obj\Debug\Car pooling System.pdb

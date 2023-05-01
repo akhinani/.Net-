@@ -1,0 +1,8 @@
+D:\Virtual studio\Day10\exception soll\exception\obj\Debug\exception.csproj.AssemblyReference.cache
+D:\Virtual studio\Day10\exception soll\exception\obj\Debug\exception.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day10\exception soll\exception\obj\Debug\exception.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day10\exception soll\exception\bin\Debug\exception.exe.config
+D:\Virtual studio\Day10\exception soll\exception\bin\Debug\exception.exe
+D:\Virtual studio\Day10\exception soll\exception\bin\Debug\exception.pdb
+D:\Virtual studio\Day10\exception soll\exception\obj\Debug\exception.exe
+D:\Virtual studio\Day10\exception soll\exception\obj\Debug\exception.pdb

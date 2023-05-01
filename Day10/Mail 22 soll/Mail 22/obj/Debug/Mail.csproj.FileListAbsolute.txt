@@ -1,0 +1,8 @@
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\bin\Debug\Mail 22.exe.config
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\bin\Debug\Mail 22.exe
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\bin\Debug\Mail 22.pdb
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\obj\Debug\Mail.csproj.AssemblyReference.cache
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\obj\Debug\Mail 22.exe
+D:\Virtual studio\Day10\Mail 22 soll\Mail 22\obj\Debug\Mail 22.pdb

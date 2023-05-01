@@ -1,0 +1,3 @@
+D:\Virtual studio\Day10\Bank accoint less tha sol\Bank accoint less tha\obj\Debug\Bank accoint less tha.csproj.AssemblyReference.cache
+D:\Virtual studio\Day10\Bank accoint less tha sol\Bank accoint less tha\obj\Debug\Bank accoint less tha.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day10\Bank accoint less tha sol\Bank accoint less tha\obj\Debug\Bank accoint less tha.csproj.CoreCompileInputs.cache
