@@ -1,0 +1,8 @@
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\bin\Debug\Sortanarray.exe.config
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\bin\Debug\Sortanarray.exe
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\bin\Debug\Sortanarray.pdb
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\obj\Debug\Sortanarray.csproj.AssemblyReference.cache
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\obj\Debug\Sortanarray.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\obj\Debug\Sortanarray.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\obj\Debug\Sortanarray.exe
+D:\Virtual studio\Day16\Sortanarray\Sortanarray\obj\Debug\Sortanarray.pdb

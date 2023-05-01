@@ -1,0 +1,8 @@
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\bin\Debug\SubArr with Given sum.exe.config
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\bin\Debug\SubArr with Given sum.exe
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\bin\Debug\SubArr with Given sum.pdb
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\obj\Debug\SubArr with Given sum.csproj.AssemblyReference.cache
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\obj\Debug\SubArr with Given sum.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\obj\Debug\SubArr with Given sum.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\obj\Debug\SubArr with Given sum.exe
+D:\Virtual studio\Day16\SubArr with Given sum\SubArr with Given sum\obj\Debug\SubArr with Given sum.pdb

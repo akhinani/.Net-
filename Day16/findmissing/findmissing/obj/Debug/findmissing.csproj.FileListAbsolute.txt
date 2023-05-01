@@ -1,0 +1,8 @@
+D:\Virtual studio\Day16\findmissing\findmissing\bin\Debug\findmissing.exe.config
+D:\Virtual studio\Day16\findmissing\findmissing\bin\Debug\findmissing.exe
+D:\Virtual studio\Day16\findmissing\findmissing\bin\Debug\findmissing.pdb
+D:\Virtual studio\Day16\findmissing\findmissing\obj\Debug\findmissing.csproj.AssemblyReference.cache
+D:\Virtual studio\Day16\findmissing\findmissing\obj\Debug\findmissing.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day16\findmissing\findmissing\obj\Debug\findmissing.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day16\findmissing\findmissing\obj\Debug\findmissing.exe
+D:\Virtual studio\Day16\findmissing\findmissing\obj\Debug\findmissing.pdb
