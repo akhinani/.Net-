@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 9\Mail sol\Mail pro\bin\Debug\Mail pro.exe.config
+D:\Virtual studio\Day 9\Mail sol\Mail pro\bin\Debug\Mail pro.exe
+D:\Virtual studio\Day 9\Mail sol\Mail pro\bin\Debug\Mail pro.pdb
+D:\Virtual studio\Day 9\Mail sol\Mail pro\obj\Debug\Mail pro.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 9\Mail sol\Mail pro\obj\Debug\Mail pro.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 9\Mail sol\Mail pro\obj\Debug\Mail pro.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 9\Mail sol\Mail pro\obj\Debug\Mail pro.exe
+D:\Virtual studio\Day 9\Mail sol\Mail pro\obj\Debug\Mail pro.pdb

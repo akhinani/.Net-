@@ -1,0 +1,3 @@
+D:\Virtual studio\Day 9\inter face sol\inter face\obj\Debug\inter face.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 9\inter face sol\inter face\obj\Debug\inter face.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 9\inter face sol\inter face\obj\Debug\inter face.csproj.CoreCompileInputs.cache
