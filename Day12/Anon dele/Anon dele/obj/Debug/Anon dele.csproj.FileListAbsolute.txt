@@ -1,0 +1,8 @@
+D:\Virtual studio\Day12\Anon dele\Anon dele\bin\Debug\Anon dele.exe.config
+D:\Virtual studio\Day12\Anon dele\Anon dele\bin\Debug\Anon dele.exe
+D:\Virtual studio\Day12\Anon dele\Anon dele\bin\Debug\Anon dele.pdb
+D:\Virtual studio\Day12\Anon dele\Anon dele\obj\Debug\Anon dele.csproj.AssemblyReference.cache
+D:\Virtual studio\Day12\Anon dele\Anon dele\obj\Debug\Anon dele.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day12\Anon dele\Anon dele\obj\Debug\Anon dele.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day12\Anon dele\Anon dele\obj\Debug\Anon dele.exe
+D:\Virtual studio\Day12\Anon dele\Anon dele\obj\Debug\Anon dele.pdb

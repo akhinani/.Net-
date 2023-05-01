@@ -1,0 +1,8 @@
+D:\Virtual studio\Day12\Anon sol\Anon\bin\Debug\Anon.exe.config
+D:\Virtual studio\Day12\Anon sol\Anon\bin\Debug\Anon.exe
+D:\Virtual studio\Day12\Anon sol\Anon\bin\Debug\Anon.pdb
+D:\Virtual studio\Day12\Anon sol\Anon\obj\Debug\Anon.csproj.AssemblyReference.cache
+D:\Virtual studio\Day12\Anon sol\Anon\obj\Debug\Anon.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day12\Anon sol\Anon\obj\Debug\Anon.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day12\Anon sol\Anon\obj\Debug\Anon.exe
+D:\Virtual studio\Day12\Anon sol\Anon\obj\Debug\Anon.pdb
