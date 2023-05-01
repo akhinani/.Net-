@@ -1,0 +1,8 @@
+D:\Virtual studio\Day 7\find leap\Date and time leap\obj\Debug\Date and time leap.csproj.AssemblyReference.cache
+D:\Virtual studio\Day 7\find leap\Date and time leap\obj\Debug\Date and time leap.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day 7\find leap\Date and time leap\obj\Debug\Date and time leap.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day 7\find leap\Date and time leap\bin\Debug\Date and time leap.exe.config
+D:\Virtual studio\Day 7\find leap\Date and time leap\bin\Debug\Date and time leap.exe
+D:\Virtual studio\Day 7\find leap\Date and time leap\bin\Debug\Date and time leap.pdb
+D:\Virtual studio\Day 7\find leap\Date and time leap\obj\Debug\Date and time leap.exe
+D:\Virtual studio\Day 7\find leap\Date and time leap\obj\Debug\Date and time leap.pdb
