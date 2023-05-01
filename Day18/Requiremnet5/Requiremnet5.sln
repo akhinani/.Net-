@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requiremnet5", "Requiremnet5\Requiremnet5.csproj", "{525FB76D-DFDC-4B95-A004-47AF35FBB4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525FB76D-DFDC-4B95-A004-47AF35FBB4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525FB76D-DFDC-4B95-A004-47AF35FBB4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525FB76D-DFDC-4B95-A004-47AF35FBB4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525FB76D-DFDC-4B95-A004-47AF35FBB4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88353BFE-C96D-4614-AB60-282371B1B5C0}
+	EndGlobalSection
+EndGlobal

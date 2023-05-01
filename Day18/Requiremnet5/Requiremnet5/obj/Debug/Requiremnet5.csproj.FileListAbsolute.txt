@@ -1,0 +1,8 @@
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\bin\Debug\Requiremnet5.exe.config
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\bin\Debug\Requiremnet5.exe
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\bin\Debug\Requiremnet5.pdb
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\obj\Debug\Requiremnet5.csproj.AssemblyReference.cache
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\obj\Debug\Requiremnet5.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\obj\Debug\Requiremnet5.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\obj\Debug\Requiremnet5.exe
+D:\Virtual studio\Day18\Requiremnet5\Requiremnet5\obj\Debug\Requiremnet5.pdb
