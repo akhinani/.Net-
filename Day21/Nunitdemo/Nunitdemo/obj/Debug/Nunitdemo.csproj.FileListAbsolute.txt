@@ -1,0 +1,8 @@
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\obj\Debug\Nunitdemo.csproj.AssemblyReference.cache
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\obj\Debug\Nunitdemo.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\obj\Debug\Nunitdemo.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\bin\Debug\Nunitdemo.exe.config
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\bin\Debug\Nunitdemo.exe
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\bin\Debug\Nunitdemo.pdb
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\obj\Debug\Nunitdemo.exe
+D:\Virtual studio\Day21\Nunitdemo\Nunitdemo\obj\Debug\Nunitdemo.pdb
