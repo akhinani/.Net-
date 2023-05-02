@@ -1,0 +1,8 @@
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\bin\Debug\CheckBinary.exe.config
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\bin\Debug\CheckBinary.exe
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\bin\Debug\CheckBinary.pdb
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\obj\Debug\CheckBinary.csproj.AssemblyReference.cache
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\obj\Debug\CheckBinary.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\obj\Debug\CheckBinary.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\obj\Debug\CheckBinary.exe
+D:\Virtual studio\Day21\CheckBinary\CheckBinary\obj\Debug\CheckBinary.pdb
