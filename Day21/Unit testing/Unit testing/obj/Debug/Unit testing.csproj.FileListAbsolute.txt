@@ -1,6 +1,0 @@
-D:\Virtual studio\Day21\Unit testing\Unit testing\bin\Debug\Unit testing.dll
-D:\Virtual studio\Day21\Unit testing\Unit testing\bin\Debug\Unit testing.pdb
-D:\Virtual studio\Day21\Unit testing\Unit testing\obj\Debug\Unit testing.csproj.AssemblyReference.cache
-D:\Virtual studio\Day21\Unit testing\Unit testing\obj\Debug\Unit testing.csproj.CoreCompileInputs.cache
-D:\Virtual studio\Day21\Unit testing\Unit testing\obj\Debug\Unit testing.dll
-D:\Virtual studio\Day21\Unit testing\Unit testing\obj\Debug\Unit testing.pdb
