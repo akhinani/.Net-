@@ -1,0 +1,8 @@
+D:\Virtual studio\Day23\extension method\extension method\bin\Debug\extension method.exe.config
+D:\Virtual studio\Day23\extension method\extension method\bin\Debug\extension method.exe
+D:\Virtual studio\Day23\extension method\extension method\bin\Debug\extension method.pdb
+D:\Virtual studio\Day23\extension method\extension method\obj\Debug\extension method.csproj.AssemblyReference.cache
+D:\Virtual studio\Day23\extension method\extension method\obj\Debug\extension method.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day23\extension method\extension method\obj\Debug\extension method.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day23\extension method\extension method\obj\Debug\extension method.exe
+D:\Virtual studio\Day23\extension method\extension method\obj\Debug\extension method.pdb

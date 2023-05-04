@@ -1,0 +1,8 @@
+D:\Virtual studio\Day23\Extension msg\Extension msg\bin\Debug\Extension msg.exe.config
+D:\Virtual studio\Day23\Extension msg\Extension msg\bin\Debug\Extension msg.exe
+D:\Virtual studio\Day23\Extension msg\Extension msg\bin\Debug\Extension msg.pdb
+D:\Virtual studio\Day23\Extension msg\Extension msg\obj\Debug\Extension msg.csproj.AssemblyReference.cache
+D:\Virtual studio\Day23\Extension msg\Extension msg\obj\Debug\Extension msg.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day23\Extension msg\Extension msg\obj\Debug\Extension msg.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day23\Extension msg\Extension msg\obj\Debug\Extension msg.exe
+D:\Virtual studio\Day23\Extension msg\Extension msg\obj\Debug\Extension msg.pdb

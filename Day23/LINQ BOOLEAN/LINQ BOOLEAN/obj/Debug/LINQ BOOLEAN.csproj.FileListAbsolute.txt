@@ -1,0 +1,8 @@
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\obj\Debug\LINQ BOOLEAN.csproj.AssemblyReference.cache
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\obj\Debug\LINQ BOOLEAN.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\obj\Debug\LINQ BOOLEAN.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\bin\Debug\LINQ BOOLEAN.exe.config
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\bin\Debug\LINQ BOOLEAN.exe
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\bin\Debug\LINQ BOOLEAN.pdb
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\obj\Debug\LINQ BOOLEAN.exe
+D:\Virtual studio\Day23\LINQ BOOLEAN\LINQ BOOLEAN\obj\Debug\LINQ BOOLEAN.pdb
