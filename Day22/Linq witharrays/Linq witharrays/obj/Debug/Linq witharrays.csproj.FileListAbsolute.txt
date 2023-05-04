@@ -1,0 +1,8 @@
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\bin\Debug\Linq witharrays.exe.config
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\bin\Debug\Linq witharrays.exe
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\bin\Debug\Linq witharrays.pdb
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\obj\Debug\Linq witharrays.csproj.AssemblyReference.cache
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\obj\Debug\Linq witharrays.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\obj\Debug\Linq witharrays.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\obj\Debug\Linq witharrays.exe
+D:\Virtual studio\Day21\Linq witharrays\Linq witharrays\obj\Debug\Linq witharrays.pdb

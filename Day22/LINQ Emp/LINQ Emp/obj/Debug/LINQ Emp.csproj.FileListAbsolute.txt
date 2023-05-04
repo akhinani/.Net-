@@ -1,0 +1,8 @@
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\bin\Debug\LINQ Emp.exe.config
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\bin\Debug\LINQ Emp.exe
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\bin\Debug\LINQ Emp.pdb
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\obj\Debug\LINQ Emp.csproj.AssemblyReference.cache
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\obj\Debug\LINQ Emp.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\obj\Debug\LINQ Emp.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\obj\Debug\LINQ Emp.exe
+D:\Virtual studio\Day22\LINQ Emp\LINQ Emp\obj\Debug\LINQ Emp.pdb

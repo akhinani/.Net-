@@ -1,0 +1,8 @@
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\bin\Debug\Flowerffruit.exe.config
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\bin\Debug\Flowerffruit.exe
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\bin\Debug\Flowerffruit.pdb
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\obj\Debug\Flowerffruit.csproj.AssemblyReference.cache
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\obj\Debug\Flowerffruit.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\obj\Debug\Flowerffruit.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\obj\Debug\Flowerffruit.exe
+D:\Virtual studio\Day21\Flowerffruit\Flowerffruit\obj\Debug\Flowerffruit.pdb
