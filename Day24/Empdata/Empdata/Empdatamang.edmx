@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="HRSCHEMEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DEPARTMENTS">
+          <Key>
+            <PropertyRef Name="department_id" />
+          </Key>
+          <Property Name="department_id" Type="int" Nullable="false" />
+          <Property Name="department_name" Type="nchar" MaxLength="10" />
+          <Property Name="manager_id" Type="int" />
+          <Property Name="location_id" Type="int" />
+        </EntityType>
+        <EntityType Name="EMPLOYEES">
+          <Key>
+            <PropertyRef Name="employee_id" />
+          </Key>
+          <Property Name="employee_id" Type="int" Nullable="false" />
+          <Property Name="first_name" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="last_name" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="email" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="phone_number" Type="int" Nullable="false" />
+          <Property Name="hire_date" Type="date" Nullable="false" />
+          <Property Name="job_id" Type="int" Nullable="false" />
+          <Property Name="salary" Type="money" Nullable="false" />
+          <Property Name="commission_pct" Type="money" Nullable="false" />
+          <Property Name="manager_id" Type="int" Nullable="false" />
+          <Property Name="department_id" Type="int" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'HRSCHEME.dbo.EMPP' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="EMPP">
+          <Property Name="empid" Type="int" />
+          <Property Name="salary" Type="money" />
+        </EntityType>-->
+        <EntityType Name="JOBS">
+          <Key>
+            <PropertyRef Name="job_id" />
+          </Key>
+          <Property Name="job_id" Type="int" Nullable="false" />
+          <Property Name="job_title" Type="nchar" MaxLength="10" />
+          <Property Name="min_salary" Type="money" />
+          <Property Name="max_salary" Type="money" />
+        </EntityType>
+        <Association Name="FK__EMPLOYEES__depar__45F365D3">
+          <End Role="DEPARTMENTS" Type="Self.DEPARTMENTS" Multiplicity="1" />
+          <End Role="EMPLOYEES" Type="Self.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DEPARTMENTS">
+              <PropertyRef Name="department_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES">
+              <PropertyRef Name="department_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLOYEES__job_i__440B1D61">
+          <End Role="JOBS" Type="Self.JOBS" Multiplicity="1" />
+          <End Role="EMPLOYEES" Type="Self.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="JOBS">
+              <PropertyRef Name="job_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES">
+              <PropertyRef Name="job_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLOYEES__manag__44FF419A">
+          <End Role="EMPLOYEES" Type="Self.EMPLOYEES" Multiplicity="1" />
+          <End Role="EMPLOYEES1" Type="Self.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPLOYEES">
+              <PropertyRef Name="employee_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES1">
+              <PropertyRef Name="manager_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="showsp_GetSalary" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="empid" Type="int" Mode="InOut" />
+          <Parameter Name="salary" Type="money" Mode="InOut" />
+        </Function>
+        <Function Name="sp_GetSalary" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="empid" Type="int" Mode="In" />
+          <Parameter Name="salary" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="HRSCHEMEModelStoreContainer">
+          <EntitySet Name="DEPARTMENTS" EntityType="Self.DEPARTMENTS" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EMPLOYEES" EntityType="Self.EMPLOYEES" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="JOBS" EntityType="Self.JOBS" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__EMPLOYEES__depar__45F365D3" Association="Self.FK__EMPLOYEES__depar__45F365D3">
+            <End Role="DEPARTMENTS" EntitySet="DEPARTMENTS" />
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLOYEES__job_i__440B1D61" Association="Self.FK__EMPLOYEES__job_i__440B1D61">
+            <End Role="JOBS" EntitySet="JOBS" />
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLOYEES__manag__44FF419A" Association="Self.FK__EMPLOYEES__manag__44FF419A">
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+            <End Role="EMPLOYEES1" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HRSCHEMEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DEPARTMENTS">
+          <Key>
+            <PropertyRef Name="department_id" />
+          </Key>
+          <Property Name="department_id" Type="Int32" Nullable="false" />
+          <Property Name="department_name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="manager_id" Type="Int32" />
+          <Property Name="location_id" Type="Int32" />
+          <NavigationProperty Name="EMPLOYEES" Relationship="Self.FK__EMPLOYEES__depar__45F365D3" FromRole="DEPARTMENTS" ToRole="EMPLOYEES" />
+        </EntityType>
+        <EntityType Name="EMPLOYEES">
+          <Key>
+            <PropertyRef Name="employee_id" />
+          </Key>
+          <Property Name="employee_id" Type="Int32" Nullable="false" />
+          <Property Name="first_name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="last_name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="email" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="phone_number" Type="Int32" Nullable="false" />
+          <Property Name="hire_date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="job_id" Type="Int32" Nullable="false" />
+          <Property Name="salary" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="commission_pct" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="manager_id" Type="Int32" Nullable="false" />
+          <Property Name="department_id" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="DEPARTMENT" Relationship="Self.FK__EMPLOYEES__depar__45F365D3" FromRole="EMPLOYEES" ToRole="DEPARTMENTS" />
+          <NavigationProperty Name="JOB" Relationship="Self.FK__EMPLOYEES__job_i__440B1D61" FromRole="EMPLOYEES" ToRole="JOBS" />
+          <NavigationProperty Name="EMPLOYEES1" Relationship="Self.FK__EMPLOYEES__manag__44FF419A" FromRole="EMPLOYEES" ToRole="EMPLOYEES1" />
+          <NavigationProperty Name="EMPLOYEE1" Relationship="Self.FK__EMPLOYEES__manag__44FF419A" FromRole="EMPLOYEES1" ToRole="EMPLOYEES" />
+        </EntityType>
+        <EntityType Name="JOB">
+          <Key>
+            <PropertyRef Name="job_id" />
+          </Key>
+          <Property Name="job_id" Type="Int32" Nullable="false" />
+          <Property Name="job_title" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="min_salary" Type="Decimal" Precision="19" Scale="4" />
+          <Property Name="max_salary" Type="Decimal" Precision="19" Scale="4" />
+          <NavigationProperty Name="EMPLOYEES" Relationship="Self.FK__EMPLOYEES__job_i__440B1D61" FromRole="JOBS" ToRole="EMPLOYEES" />
+        </EntityType>
+        <Association Name="FK__EMPLOYEES__depar__45F365D3">
+          <End Role="DEPARTMENTS" Type="HRSCHEMEModel.DEPARTMENTS" Multiplicity="1" />
+          <End Role="EMPLOYEES" Type="HRSCHEMEModel.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DEPARTMENTS">
+              <PropertyRef Name="department_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES">
+              <PropertyRef Name="department_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLOYEES__job_i__440B1D61">
+          <End Role="JOBS" Type="Self.JOB" Multiplicity="1" />
+          <End Role="EMPLOYEES" Type="HRSCHEMEModel.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="JOBS">
+              <PropertyRef Name="job_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES">
+              <PropertyRef Name="job_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLOYEES__manag__44FF419A">
+          <End Role="EMPLOYEES" Type="HRSCHEMEModel.EMPLOYEES" Multiplicity="1" />
+          <End Role="EMPLOYEES1" Type="HRSCHEMEModel.EMPLOYEES" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPLOYEES">
+              <PropertyRef Name="employee_id" />
+            </Principal>
+            <Dependent Role="EMPLOYEES1">
+              <PropertyRef Name="manager_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HRSCHEMEEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DEPARTMENTS" EntityType="HRSCHEMEModel.DEPARTMENTS" />
+          <EntitySet Name="EMPLOYEES" EntityType="HRSCHEMEModel.EMPLOYEES" />
+          <EntitySet Name="JOBS" EntityType="Self.JOB" />
+          <AssociationSet Name="FK__EMPLOYEES__depar__45F365D3" Association="Self.FK__EMPLOYEES__depar__45F365D3">
+            <End Role="DEPARTMENTS" EntitySet="DEPARTMENTS" />
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLOYEES__job_i__440B1D61" Association="Self.FK__EMPLOYEES__job_i__440B1D61">
+            <End Role="JOBS" EntitySet="JOBS" />
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLOYEES__manag__44FF419A" Association="Self.FK__EMPLOYEES__manag__44FF419A">
+            <End Role="EMPLOYEES" EntitySet="EMPLOYEES" />
+            <End Role="EMPLOYEES1" EntitySet="EMPLOYEES" />
+          </AssociationSet>
+          <FunctionImport Name="showsp_GetSalary" ReturnType="Collection(Decimal)">
+            <Parameter Name="empid" Mode="InOut" Type="Int32" />
+            <Parameter Name="salary" Mode="InOut" Type="Decimal" />
+          </FunctionImport>
+          <FunctionImport Name="sp_GetSalary" ReturnType="Collection(Int32)">
+            <Parameter Name="empid" Mode="In" Type="Int32" />
+            <Parameter Name="salary" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="HRSCHEMEModelStoreContainer" CdmEntityContainer="HRSCHEMEEntities">
+          <EntitySetMapping Name="DEPARTMENTS">
+            <EntityTypeMapping TypeName="HRSCHEMEModel.DEPARTMENTS">
+              <MappingFragment StoreEntitySet="DEPARTMENTS">
+                <ScalarProperty Name="department_id" ColumnName="department_id" />
+                <ScalarProperty Name="department_name" ColumnName="department_name" />
+                <ScalarProperty Name="manager_id" ColumnName="manager_id" />
+                <ScalarProperty Name="location_id" ColumnName="location_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EMPLOYEES">
+            <EntityTypeMapping TypeName="HRSCHEMEModel.EMPLOYEES">
+              <MappingFragment StoreEntitySet="EMPLOYEES">
+                <ScalarProperty Name="employee_id" ColumnName="employee_id" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+                <ScalarProperty Name="hire_date" ColumnName="hire_date" />
+                <ScalarProperty Name="job_id" ColumnName="job_id" />
+                <ScalarProperty Name="salary" ColumnName="salary" />
+                <ScalarProperty Name="commission_pct" ColumnName="commission_pct" />
+                <ScalarProperty Name="manager_id" ColumnName="manager_id" />
+                <ScalarProperty Name="department_id" ColumnName="department_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="JOBS">
+            <EntityTypeMapping TypeName="HRSCHEMEModel.JOB">
+              <MappingFragment StoreEntitySet="JOBS">
+                <ScalarProperty Name="job_id" ColumnName="job_id" />
+                <ScalarProperty Name="job_title" ColumnName="job_title" />
+                <ScalarProperty Name="min_salary" ColumnName="min_salary" />
+                <ScalarProperty Name="max_salary" ColumnName="max_salary" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="showsp_GetSalary" FunctionName="HRSCHEMEModel.Store.showsp_GetSalary" />
+          <FunctionImportMapping FunctionImportName="sp_GetSalary" FunctionName="HRSCHEMEModel.Store.sp_GetSalary" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
