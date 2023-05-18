@@ -1,0 +1,8 @@
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\bin\Debug\SingleTonDemo.exe.config
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\bin\Debug\SingleTonDemo.exe
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\bin\Debug\SingleTonDemo.pdb
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\obj\Debug\SingleTonDemo.csproj.AssemblyReference.cache
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\obj\Debug\SingleTonDemo.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\obj\Debug\SingleTonDemo.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\obj\Debug\SingleTonDemo.exe
+D:\Virtual studio\Day34\SingleTonDemo\SingleTonDemo\obj\Debug\SingleTonDemo.pdb
