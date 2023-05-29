@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Day of the Week Form</title>
+</head>
+<body>
+ <form>
+  <label for="dayInput">Enter a number between 0 and 6:</label>
+  <input type="text" id="dayInput" required>
+  <button type="submit" id="submitButton">Submit</button>
+ </form>
+ <script>
+  document.querySelector('form').addEventListener('submit', function(event) {
+   event.preventDefault(); // Prevent form submission
+   // Get the input value
+   var dayInput = document.getElementById('dayInput').value;
+   // Validate the input
+   var day = parseInt(dayInput);
+   if (isNaN(day) || day < 0 || day > 6) {
+    throw new Error('Invalid input. Please enter a number between 0 and 6.');
+
+   }
+   // Handle the valid input (replace this with your desired logic)
+   var daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+   var selectedDay = daysOfWeek[day];
+   console.log('Selected day:', selectedDay);
+
+  });
+ </script>
+
+</body>
+
+</html>

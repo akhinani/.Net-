@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        // Create an array of 30 email addresses
+        const emails = [
+            "abc@gmail.com",
+            "frg@yahoo.com",
+            "hgjhg@hotmail.com",
+            "hjkgh@infy.com",
+            "xyz@gmail.com",
+            "pqr@yahoo.com",
+            "lmn@hotmail.com",
+            "ijk@infy.com",
+            // Add more email addresses here...
+
+        ];
+
+        // Initialize empty arrays for each category
+        const googleEmails = [];
+        const yahooEmails = [];
+        const hotmailEmails = [];
+        const otherEmails = [];
+        // Iterate through the emails array and categorize each email
+        for (let i = 0; i < emails.length; i++) {
+            const email = emails[i];
+            if (email.endsWith("@gmail.com")) {
+                googleEmails.push(email);
+            } else if (email.endsWith("@yahoo.com")) {
+                yahooEmails.push(email);
+            } else if (email.endsWith("@hotmail.com")) {
+                hotmailEmails.push(email);
+            } else {
+                otherEmails.push(email);
+
+            }
+
+        }
+        // Display the categorized emails
+        console.log("Google:", googleEmails);
+        console.log("Yahoo:", yahooEmails);
+        console.log("Hotmail:", hotmailEmails);
+        console.log("Others:", otherEmails);
+    </script>
+</head>
+
+</html>
