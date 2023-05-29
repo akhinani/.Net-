@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>WRCTC</title>
+  <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <!-- Include Font Awesome CSS -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    /* Add custom styles here */
+    .container {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+    #mySidenav a {
+      position: absolute;
+      right: -60px;
+      transition: 0.3s;
+      padding: 20px;
+      width: 100px;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      border-radius: 0 5px 5px 0;
+    }
+
+    #mySidenav a:hover {
+      right: 5px;
+    }
+
+    .myButton {
+      background-color: #f1f3f4;
+      color: rgb(3, 3, 3);
+      padding: 40px 20px;
+      text-align: center;
+      border-radius: 50%;
+    }
+
+    .myButton:hover {
+      background-color: #f54159;
+      transform: scale(1.2);
+      animation: none;
+    }
+
+    /* Add custom styles here */
+    .centered {
+      text-align: center;
+      /* Centers the content horizontally */
+      font-size: 35px;
+      /* Adjust the font size as desired */
+      font-weight: bold;
+    }
+
+    .hover-list li {
+      list-style-type: none;
+      padding: 5px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hover-list li:hover {
+      background-color: #f1f3f4;
+      border-radius: 5px;
+    }
+
+    .hover-list i {
+      margin-right: 10px;
+    }
+
+    .image-container {
+      position: relative;
+      width: 100%;
+      height: 80%;
+    }
+
+    .image-container img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .form-overlay {
+      position: absolute;
+      top: 50%;
+      left: 28%;
+      transform: translate(-50%, -50%);
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navigation bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="WRCTCM.jpeg" alt="Logo" width="120" height="80">
+    </a>
+    <h1>WORLD RAILWAYS</h1>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#"></a>
+          <img src="WRCTCR.png" alt="Logo" width="120" height="80">
+        </li>
+      </ul>
+    </div>
+  </nav>
+  
+  <div class="image-container">
+    <div class="container"></div>
+    <img src="wallpaper.jpg" alt="Logo" width="1300" height="600">
+    <div class="top-right"style="position: absolute;top: 10px;right: 160px; color:#db1a1a;font-size: 50px;">Safety | Security</div>
+
+    <div id="mySidenav" class="sidenav">
+      <a href="#" id="about" style="top: 30px;
+      background-color: #04AA6D">About</a>
+      <a href="#" id="blog" style="top: 80px;
+      background-color: #2196F3">Blog</a>
+      <a href="#" id="projects" style="  top: 140px;
+      background-color: #f44336">Projects</a>
+
+    </div>
+
+    <div class="form-overlay">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-body">
+            <form style="position:relative;">
+              <h5 class="card-title" style="color:rgb(192, 18, 18) ;text-align: center;"><b><u>Train Booking</b></u>
+              </h5>
+              <br>
+              <div class="form-group">
+                <label for="fromStation">From Station</label>
+                <input type="text" class="form-control" id="fromStation" placeholder="Enter From Station">
+              </div>
+              <div class="form-group">
+                <label for="toStation">To Station</label>
+                <input type="text" class="form-control" id="toStation" placeholder="Enter To Station">
+              </div>
+              <div class="form-group">
+                <label for="date">Date of Journey</label>
+                <input type="date" class="form-control" id="date"><BR>
+                <label for="class">Class:</label><br>
+
+                <select id="class" name="class">
+                  <option value="ALLCLASES">All Classes</option>
+                  <option value="first class">AC FIRST CLASS</option>
+                  <option value="AC SECOND CLASS">AC SECOND CLASS</option>
+                  <option value="SL">Sleeper</option>
+                  <option value="CC">AC Chair Car</option><br>
+                  <option value="3">AC 3 TIER</option><br>
+                </select>
+                <label for="type">TYPE:</label><br>
+                <select id="type" name="type">
+                  <option value="GENERAL">GENERAL</option>
+                  <option value="LADIES">LADIES</option>
+                  <option value="PERSON WITH DISABILITY">PERSON WITH DISABILITY</option>
+                  <option value="TATKAL">TATKAL</option>
+                  <option value="LOWER BERTH/SR.CITIZEN">LOWER BERTH/SR.CITIZEN</option>
+                  <br>
+
+                  <br>
+                  <input type="checkbox" id="PERSON" name="PERSON" value="B">
+                  <label for="PERSON"> PERSON WITH DISABILITY</label><br>
+                  <input type="checkbox" id="DATE" name="DATE" value="C">
+                  <label for="DATE"> FLEXIBLE WITH DATE</label><br>
+                  <input type="checkbox" id="BERTH" name="BERTH" value="D">
+                  <label for="BERTH"> TRAIN WITH AVAILABLE BERTH</label><br>
+                  <input type="checkbox" id="PASS" name="PASS" value="E">
+                  <label for="PASS"> RAILWAY PASS CONCERN</label><br>
+
+              </div>
+              <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br><br>
+  <p class="centered">
+    Have you not found the right one?<br>
+    Find a service suitable for you here.
+
+  </p><br>
+  <ul class="hover-list">
+    <li>
+      <a href="#" class="myButton" style="margin-left: 250px;">
+        <i class="fas fa-plane fa-4x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-hotel fa-4x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-ship fa-4x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-bus fa-4x"></i>
+      </a>
+      </a>
+    </li>
+    <li>
+      <a href="#" class="myButton" style="margin-left: 250px;">
+        <i class="fas fa-train fa-5x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-images fa-5x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-utensils fa-5x"></i>
+      </a>
+      <a href="#" class="myButton" style="margin-left: 40px;">
+        <i class="fas fa-camera-retro fa-5x"></i>
+      </a>
+    </li>
+    <br><br><br>
+    <footer style="background-color: darkgrey; text-align: center; width:auto; height:auto;">
+
+      <p>@All rights reserved by Akhil Kannuri</p>
+
+    </footer>
+    <!-- Include Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script>
+    // Add custom JavaScript code here
+    </script>
+</body>
+
+</html>

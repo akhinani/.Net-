@@ -1,0 +1,8 @@
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\bin\Debug\1DArrayintindex.exe.config
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\bin\Debug\1DArrayintindex.exe
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\bin\Debug\1DArrayintindex.pdb
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\obj\Debug\1DArrayintindex.csproj.AssemblyReference.cache
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\obj\Debug\1DArrayintindex.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\obj\Debug\1DArrayintindex.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\obj\Debug\1DArrayintindex.exe
+D:\Virtual studio\Day40\1DArrayintindex\1DArrayintindex\obj\Debug\1DArrayintindex.pdb

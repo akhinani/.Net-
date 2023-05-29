@@ -1,0 +1,8 @@
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\bin\Debug\1D ArrayLeap.exe.config
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\bin\Debug\1D ArrayLeap.exe
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\bin\Debug\1D ArrayLeap.pdb
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\obj\Debug\1D ArrayLeap.csproj.AssemblyReference.cache
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\obj\Debug\1D ArrayLeap.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\obj\Debug\1D ArrayLeap.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\obj\Debug\1D ArrayLeap.exe
+D:\Virtual studio\Day40\1D ArrayLeap\1D ArrayLeap\obj\Debug\1D ArrayLeap.pdb

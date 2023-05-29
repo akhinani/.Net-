@@ -1,0 +1,8 @@
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+D:\Virtual studio\Day40\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
