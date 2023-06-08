@@ -1,0 +1,8 @@
+D:\Virtual studio\Day48\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Virtual studio\Day48\Factory\Factory\bin\Debug\Factory.exe
+D:\Virtual studio\Day48\Factory\Factory\bin\Debug\Factory.pdb
+D:\Virtual studio\Day48\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+D:\Virtual studio\Day48\Factory\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day48\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day48\Factory\Factory\obj\Debug\Factory.exe
+D:\Virtual studio\Day48\Factory\Factory\obj\Debug\Factory.pdb

@@ -1,0 +1,8 @@
+D:\Virtual studio\Day48\Hashset\Hashset\bin\Debug\Hashset.exe.config
+D:\Virtual studio\Day48\Hashset\Hashset\bin\Debug\Hashset.exe
+D:\Virtual studio\Day48\Hashset\Hashset\bin\Debug\Hashset.pdb
+D:\Virtual studio\Day48\Hashset\Hashset\obj\Debug\Hashset.csproj.AssemblyReference.cache
+D:\Virtual studio\Day48\Hashset\Hashset\obj\Debug\Hashset.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day48\Hashset\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day48\Hashset\Hashset\obj\Debug\Hashset.exe
+D:\Virtual studio\Day48\Hashset\Hashset\obj\Debug\Hashset.pdb
