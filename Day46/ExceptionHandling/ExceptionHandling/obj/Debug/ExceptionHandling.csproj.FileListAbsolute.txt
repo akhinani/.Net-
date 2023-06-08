@@ -1,0 +1,8 @@
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Virtual studio\Day47\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

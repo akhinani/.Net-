@@ -1,0 +1,8 @@
+D:\Virtual studio\Day47\Endoffile\Endoffile\bin\Debug\Endoffile.exe.config
+D:\Virtual studio\Day47\Endoffile\Endoffile\bin\Debug\Endoffile.exe
+D:\Virtual studio\Day47\Endoffile\Endoffile\bin\Debug\Endoffile.pdb
+D:\Virtual studio\Day47\Endoffile\Endoffile\obj\Debug\Endoffile.csproj.AssemblyReference.cache
+D:\Virtual studio\Day47\Endoffile\Endoffile\obj\Debug\Endoffile.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day47\Endoffile\Endoffile\obj\Debug\Endoffile.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day47\Endoffile\Endoffile\obj\Debug\Endoffile.exe
+D:\Virtual studio\Day47\Endoffile\Endoffile\obj\Debug\Endoffile.pdb

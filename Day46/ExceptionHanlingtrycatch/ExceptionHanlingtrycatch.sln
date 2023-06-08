@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHanlingtrycatch", "ExceptionHanlingtrycatch\ExceptionHanlingtrycatch.csproj", "{82A273DD-9CC7-40B3-AA76-A61BC320D220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A273DD-9CC7-40B3-AA76-A61BC320D220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A273DD-9CC7-40B3-AA76-A61BC320D220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A273DD-9CC7-40B3-AA76-A61BC320D220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A273DD-9CC7-40B3-AA76-A61BC320D220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCE2D1D-48DA-41DD-93CB-1A87E8ADBF6E}
+	EndGlobalSection
+EndGlobal
