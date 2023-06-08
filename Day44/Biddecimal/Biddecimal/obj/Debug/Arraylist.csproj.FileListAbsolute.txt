@@ -1,0 +1,8 @@
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\bin\Debug\Biddecimal.exe.config
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\bin\Debug\Biddecimal.exe
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\bin\Debug\Biddecimal.pdb
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\obj\Debug\Arraylist.csproj.AssemblyReference.cache
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\obj\Debug\Arraylist.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\obj\Debug\Arraylist.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\obj\Debug\Biddecimal.exe
+D:\Virtual studio\Day44\Biddecimal\Biddecimal\obj\Debug\Biddecimal.pdb
