@@ -1,0 +1,8 @@
+D:\Virtual studio\Day40\Rationnum\Rationnum\bin\Debug\Rationnum.exe.config
+D:\Virtual studio\Day40\Rationnum\Rationnum\bin\Debug\Rationnum.exe
+D:\Virtual studio\Day40\Rationnum\Rationnum\bin\Debug\Rationnum.pdb
+D:\Virtual studio\Day40\Rationnum\Rationnum\obj\Debug\Rationnum.csproj.AssemblyReference.cache
+D:\Virtual studio\Day40\Rationnum\Rationnum\obj\Debug\Rationnum.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day40\Rationnum\Rationnum\obj\Debug\Rationnum.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day40\Rationnum\Rationnum\obj\Debug\Rationnum.exe
+D:\Virtual studio\Day40\Rationnum\Rationnum\obj\Debug\Rationnum.pdb
