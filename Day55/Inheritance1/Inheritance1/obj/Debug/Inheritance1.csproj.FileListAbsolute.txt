@@ -1,0 +1,8 @@
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe.config
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\bin\Debug\Inheritance1.pdb
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.AssemblyReference.cache
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\obj\Debug\Inheritance1.exe
+D:\Virtual studio\Day55\Inheritance1\Inheritance1\obj\Debug\Inheritance1.pdb

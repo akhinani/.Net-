@@ -1,0 +1,8 @@
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\bin\Debug\Instanceofkeyword.exe.config
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\bin\Debug\Instanceofkeyword.exe
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\bin\Debug\Instanceofkeyword.pdb
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\obj\Debug\Instanceofkeyword.csproj.AssemblyReference.cache
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\obj\Debug\Instanceofkeyword.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\obj\Debug\Instanceofkeyword.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\obj\Debug\Instanceofkeyword.exe
+D:\Virtual studio\Day55\Instanceofkeyword\Instanceofkeyword\obj\Debug\Instanceofkeyword.pdb

@@ -1,0 +1,8 @@
+D:\Virtual studio\Day55\interface\interface\bin\Debug\@interface.exe.config
+D:\Virtual studio\Day55\interface\interface\bin\Debug\@interface.exe
+D:\Virtual studio\Day55\interface\interface\bin\Debug\@interface.pdb
+D:\Virtual studio\Day55\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+D:\Virtual studio\Day55\interface\interface\obj\Debug\interface.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day55\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day55\interface\interface\obj\Debug\@interface.exe
+D:\Virtual studio\Day55\interface\interface\obj\Debug\@interface.pdb

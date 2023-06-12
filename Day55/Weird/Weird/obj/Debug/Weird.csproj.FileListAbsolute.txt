@@ -1,0 +1,8 @@
+D:\Virtual studio\Day55\Weird\Weird\bin\Debug\Weird.exe.config
+D:\Virtual studio\Day55\Weird\Weird\bin\Debug\Weird.exe
+D:\Virtual studio\Day55\Weird\Weird\bin\Debug\Weird.pdb
+D:\Virtual studio\Day55\Weird\Weird\obj\Debug\Weird.csproj.AssemblyReference.cache
+D:\Virtual studio\Day55\Weird\Weird\obj\Debug\Weird.csproj.SuggestedBindingRedirects.cache
+D:\Virtual studio\Day55\Weird\Weird\obj\Debug\Weird.csproj.CoreCompileInputs.cache
+D:\Virtual studio\Day55\Weird\Weird\obj\Debug\Weird.exe
+D:\Virtual studio\Day55\Weird\Weird\obj\Debug\Weird.pdb
